@@ -13,6 +13,10 @@
 *.gcno
 *.gcov
 
+*.txt.user
+*.h.included
+
+/build
 /example
 /example64
 /examplesh
